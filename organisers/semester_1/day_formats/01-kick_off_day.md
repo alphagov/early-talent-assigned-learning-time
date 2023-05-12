@@ -14,18 +14,18 @@ The first day of semester 1 focused on three main tasks:
 2. Setting out some basic house keeping on ways of working and the semester schedule
 3. Focusing the rest of the day around deciding on a project and beginning to break it down into manageable tasks
 
-## What did we cover?
+## Format
 
-| Time          | Meeting               | Notes                                     |
-| ------------- | --------------------- | ----------------------------------------- |
-| 09:30 - 10:00 | Standup / Kick off    |                                           |
-| 10:00 - 10:30 | Pitch on Ideas (pt1)  |                                           |
-| 10:30 - 10:40 | Break                 |                                           |
-| 10:40 - 11:10 | Pitch on Ideas (pt2)  |                                           |
-| 11:10 - 12:00 | Create repos & boards | Plus talk on "how to break a ticket down" |
-| 12:00 - 13:00 | Lunch                 |                                           |
-| 13:00 - 15:30 | Free Planning time    | Dev also offered appointment slots        |
-| 15:30 - 16:30 | Tech Talk             |                                           |
+| Time          | Meeting                                        | Notes                                     |
+| ------------- | ---------------------------------------------- | ----------------------------------------- |
+| 09:30 - 10:00 | [Standup / Kick off](#standup--kick-off)       |                                           |
+| 10:00 - 10:30 | [Pitch on Ideas (pt1)](#pitch-on-ideas)        |                                           |
+| 10:30 - 10:40 | Break                                          |                                           |
+| 10:40 - 11:10 | [Pitch on Ideas (pt2)](#pitch-on-ideas)        |                                           |
+| 11:10 - 12:00 | [Create repos & boards](#create-repos--boards) | Plus talk on "how to break a ticket down" |
+| 12:00 - 13:00 | Lunch                                          |                                           |
+| 13:00 - 15:30 | [Free Planning time](#free-planning-time)      | Dev also offered appointment slots        |
+| 15:30 - 16:30 | [Tech Talk](#tech-talk)                        |                                           |
 
 ### Standup / Kick off
 
