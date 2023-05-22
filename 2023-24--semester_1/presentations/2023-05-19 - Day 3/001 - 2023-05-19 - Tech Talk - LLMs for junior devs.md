@@ -1,6 +1,6 @@
 ---
-internal_link_to_slides: https://docs.google.com/presentation/d/12wxTA16ZuYURas3TYygc4SagVYneqCOy6AbUzQSAo3M/
-internal_link_to_recording: https://drive.google.com/file/d/1fTqx4uVi0JMzpqsuP2VXqaiaqRwjmb9N/view
-internal_link_to_transcript: https://docs.google.com/document/d/1913Ccdn0SI4FDzqXaLhvzP1qo8AN-VgGlZvXwK--CS4
-speaker: @huwd
+internal_link_to_slides: https://docs.google.com/presentation/d/1petTAGDn5mNUiJ2-2BJim4FLfNM2NoPaJcEJOrQpZwA/edit
+internal_link_to_recording: hhttps://drive.google.com/drive/folders/1Z3t9dw4-0t05OsQnj7ie1r4e6wSHZWGI
+internal_link_to_transcript: https://docs.google.com/document/d/17rj3FUWGGScXHOvY3y6eugTgVCvYZS5tEqafZmOlDbA/edit
+speaker: @mammykins @MaxwellRiess
 ---
