@@ -3,7 +3,7 @@ slack_channel: https://gds.slack.com/archives/C05599LTS0J
 slack_channel_name: proj-early-talent-assigned-learning
 ---
 
-# Semester 1
+# Learning Period 1
 
 ## Projects
 
